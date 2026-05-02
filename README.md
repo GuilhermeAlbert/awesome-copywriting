@@ -416,6 +416,7 @@ Desired outcome + compressed timeline + risk reversal + obstacle-removing bonuse
 Archives of real copy worth studying: ads, emails, sales letters, and VSLs.
 
 - [swiped.co](https://swiped.co/) - largest annotated archive of ads and sales letters
+- [Swiper](https://swiper.com.br/) - Brazilian swipe file with ads, VSLs, landing pages, and translated copy references in Portuguese
 - [swiped.co/niche/financial/](https://swiped.co/niche/financial/) - financial niche swipe file
 - [swiped.co/niche/health/](https://swiped.co/niche/health/) - health niche swipe file
 - [swiped.co/person/gary-halbert/](https://swiped.co/person/gary-halbert/) - Halbert archive
